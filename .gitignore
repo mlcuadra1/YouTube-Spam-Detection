@@ -1823,7 +1823,6 @@ bin/pyrsa-decrypt.exe
 bin/normalizer.exe
 apiclient/__pycache__/__init__.cpython-311.pyc
 apiclient/__init__.py
-api_trial.ipynb
 __pycache__/google_auth_httplib2.cpython-311.pyc
 googleapiclient/discovery_cache/__pycache__/__init__.cpython-312.pyc
 googleapiclient/discovery_cache/__pycache__/file_cache.cpython-312.pyc
